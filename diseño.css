@@ -1,0 +1,111 @@
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    overflow-x:hidden ;
+    background-color: #ddafdd41;
+}   
+
+.container{
+    
+    opacity:70%;
+    font-family: "Lucida Grande"; 
+    font-size: 30px; 
+
+}
+
+.carrito{
+    opacity: 70%;
+    padding:0.5%
+}
+
+.btncarrito{
+    background-color:#c98baa;
+    border-radius: 10%;
+    border-color:#fff;
+    width:7%;
+    opacity:70%;
+
+}
+.redes-sociales{
+    color:#4d4b4eb0;
+    top: 200px;
+    position:absolute;
+    top: 18px;
+    left:90%;
+}
+
+/*=======================-->
+    <!--MENU-->
+=======================-->
+*/
+
+#menu a{
+    font-size: 20px;
+    font-family: "Lucida Grande";
+    color:#5D535E;
+    width: 100px;
+    font-weight:lighter;
+
+}
+.btn-primary{
+    background-color: #5D535E;
+    opacity:70%;
+    border-radius: 15px;
+    border-color: blanchedalmond;
+}
+.caja{
+    border-radius: 15px;
+    border-color:#fff;
+}
+
+.primerenunciado{
+    font-size: 50px;
+    font-family: "Brush Script MT"; 
+    color:#877888;
+    
+} 
+
+
+#button {
+    font-size: 18px;
+    font-weight:bold;
+    color:black;
+
+}
+
+/*=======================-->
+    <!--SLIDER DE IMAGENES-->
+=======================-->
+*/
+.carousel-inner{
+    max-height: 20rem;
+}
+
+/*=======================-->
+    <!--SLIDER DE IMAGENES-->
+=======================-->
+*/
+
+.card-group{
+    padding: auto;
+}
+
+#catalogo1 {
+    padding: px;
+}
+
+/*=======================-->
+    <!--CONTACTO-->
+=======================-->
+*/
+
+#bg-contacto{
+    position: relative;
+    top:130px;
+}
+
+
+
+
+
+
